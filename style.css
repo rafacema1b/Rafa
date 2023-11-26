@@ -1,5 +1,5 @@
-.titulo {color: purple}
-.paragrafo {
+.titulo {text-align: center;color: purple}
+.paragrafo {text-align: center;
     background-color:plum;
 
         color: rgb(0, 0, 0);
@@ -9,4 +9,4 @@
 
 
                 }
-.meio {color: blueviolet;}
+.meio {text-align: center;color: blueviolet;}
